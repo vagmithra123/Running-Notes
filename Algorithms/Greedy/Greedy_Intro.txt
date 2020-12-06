@@ -1,0 +1,24 @@
+This method is used for solving Optimization problems.
+
+Optimization problem is the problem which demands either minimum results or maximum results.
+
+A solution which is satisfying the constraint is feasible solution.
+
+A solution which is already feasible and giving best result is optimal solution.
+
+Every problem has only one optimal solution.
+
+Greedy method is used for solving optimization problem.
+
+Greedy Method:
+
+1: Greedy Method
+2: Dynamic Programming
+3: Branch and Bound
+
+
+ 
+Greedy Method says a problem should be solved in stages.
+
+Greedy method says, we consider input in stages and if it is feasible we include in feasible solution list. That way we will get the optimal solution.
+
